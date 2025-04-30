@@ -6,7 +6,6 @@ document.addEventListener('DOMContentLoaded', function() {
                 "https://nayaharyana-com.preview-domain.com",
  
            
-               "https://mediumseagreen-manatee-586306-hostingersite-com-842527.hostingersite.com/"
               
                  
                 

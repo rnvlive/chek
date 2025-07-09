@@ -1,8 +1,8 @@
-<code><script src='https://rnvlive.github.io/verify/auther.js'/>
+<code><script src='https://rnvlive.github.io/chek/auther.js'/>
 
-<script src='https://rnvlive.github.io/verify/icon.js'/>
+<script src='https://rnvlive.github.io/chek/icon.js'/>
 
 </br>
-<a href='https://rnvlive.github.io/verify/auther.js'>View</a>
+<a href='https://rnvlive.github.io/chek/auther.js'>View</a>
 
 </code>
